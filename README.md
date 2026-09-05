@@ -6,6 +6,16 @@ experience using SQL, Python, Excel, and Power BI.
 
 ---
 
+## 📊 Power BI Dashboard
+
+The Power BI report contains three interactive pages:
+
+- **HR Overview** — Workforce and overall HR KPIs
+- **Attrition & Workforce** — Attrition and workforce analysis
+- **Performance & Experience** — Performance, satisfaction, training, and work-life balance analysis
+
+---
+
 ## 📌 About the Project
 
 This project analyzes employee and performance data to understand different
