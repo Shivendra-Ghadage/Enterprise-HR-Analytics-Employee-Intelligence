@@ -6,22 +6,6 @@ experience using SQL, Python, Excel, and Power BI.
 
 ---
 
-## 📊 Dashboard Preview
-
-### HR Overview
-
-![HR Overview](07_Visualizations/01_HR_Overview.png)
-
-### Attrition & Workforce
-
-![Attrition & Workforce](07_Visualizations/02_Attrition_Workforce.png)
-
-### Performance & Experience
-
-![Performance & Experience](07_Visualizations/03_Performance_Experience.png)
-
----
-
 ## 📌 About the Project
 
 This project analyzes employee and performance data to understand different
@@ -379,3 +363,22 @@ Enterprise-HR-Analytics-Employee-Intelligence/
 │   └── Performance_Icon.png
 │
 └── README.md
+```
+
+---
+
+## 📊 Dashboard Preview
+
+### HR Overview
+
+![HR Overview](<img width="577" height="325" alt="01_HR_Overview" src="https://github.com/user-attachments/assets/0275e583-8aa5-43e1-8efb-181d47122c9f" />)
+
+### Attrition & Workforce
+
+![Attrition & Workforce](<img width="578" height="326" alt="02_Attrition_Workforce" src="https://github.com/user-attachments/assets/9217c2ea-3c0b-40df-8606-9c5f38294284" />)
+
+### Performance & Experience
+
+![Performance & Experience](<img width="577" height="326" alt="03_Performance_Experience" src="https://github.com/user-attachments/assets/7c83be96-644a-4eed-9aca-eaf7b22bd509" />)
+
+---
